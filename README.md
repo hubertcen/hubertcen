@@ -23,8 +23,14 @@ Here are some ideas to get you started:
 
 [![Connect](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/hubertcen/) [![Connect](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hubertdaryantocen/) [![Connect](https://skillicons.dev/icons?i=discord)](https://discord.com/users/426628926974984195) [![Connect](https://skillicons.dev/icons?i=twitter)](https://x.com/hubertcen93)
 
+<img src="https://raw.githubusercontent.com/hubertcen/hubertcen/output/snake.svg" alt="Snake animation" />
+
 ###
 
-<img src="https://raw.githubusercontent.com/hubertcen/hubertcen/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hubertcen/hubertcen/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hubertcen/hubertcen/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hubertcen/hubertcen/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
